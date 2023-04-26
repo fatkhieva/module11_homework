@@ -1,2 +1,2 @@
-# learn-js
-js examples for fast learning
+мои тесты лежат в папке 
+src/__tests__/index.test.js
